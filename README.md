@@ -1,5 +1,5 @@
 # 100+ Python challenging programming exercises
-### Table of Contents
+### Contents
 **1. [Level Description](https://github.com/WenJoy001/Python-programming-exercises#1level-description)**
 
 **2. [Problem Template](https://github.com/WenJoy001/Python-programming-exercises#2problem-template)**
