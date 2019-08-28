@@ -46,7 +46,7 @@ for i in range(2000, 3201):
 
 print ','.join(l)
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 2 - Level 1
@@ -75,7 +75,7 @@ def fact(x):
 x = int(raw_input())
 print fact(x)
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 3 - Level 1
@@ -106,7 +106,7 @@ for i in range(1,n+1):
 
 print d
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 4 - Level 1
@@ -137,7 +137,7 @@ t = tuple(l)
 print l
 print t
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 5 - Level 1
@@ -170,7 +170,7 @@ strObj = InputOutString()
 strObj.getString()
 strObj.printString()
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 ### Question 6 - Level 2
 
@@ -206,7 +206,7 @@ for d in items:
 
 print ','.join(value)
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 7 - Level 2
@@ -239,7 +239,7 @@ for row in range(rowNum):
 
 print multilist
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 8 - Level 2
@@ -263,7 +263,7 @@ items = [x for x in raw_input().split(',')]
 items.sort()
 print ','.join(items)
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 9 - Level 2
@@ -300,7 +300,7 @@ while True:
 for sentence in lines:
     print sentence
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 10 - Level 2
@@ -325,7 +325,7 @@ s = raw_input()
 words = [word for word in s.split(" ")]
 print " ".join(sorted(list(set(words))))
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 ### Question 11 - Level 2
@@ -358,7 +358,7 @@ for p in items:
 
 print ','.join(value)
 ```
-[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
+[Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#contents)
 ***
 
 
