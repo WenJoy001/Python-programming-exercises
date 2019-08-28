@@ -7,9 +7,9 @@
 **3. [Questions](https://github.com/WenJoy001/Python-programming-exercises#3questions)**
 
 * [Questions 1-10](https://github.com/WenJoy001/Python-programming-exercises#question-1---level-1)
-* [Questions 11-20](https://github.com/WenJoy001/Python-programming-exercises#question-1---level-11)
-* [Questions 21-30](https://github.com/WenJoy001/Python-programming-exercises#question-1---level-21)
-* [Questions 31-40](https://github.com/WenJoy001/Python-programming-exercises#question-1---level-31)
+* [Questions 11-20](https://github.com/WenJoy001/Python-programming-exercises#question-11---level-2)
+* [Questions 21-30](https://github.com/WenJoy001/Python-programming-exercises#question-21---level-)
+* [Questions 31-40](https://github.com/WenJoy001/Python-programming-exercises#question-31---level-)
 
 ## 1.   Level Description
 - **Level 1 Beginner**  means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be $
