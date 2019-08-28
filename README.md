@@ -16,7 +16,7 @@
 - **Level 2 Intermediate** means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 $
 - **Level 3 Advanced** One should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python$
 
-## 2.   Problem template
+## 2.   Problem Template
 
 - Question
 - Hints
@@ -25,7 +25,7 @@
 ## 3.   Questions
 
 
-### Question 1 - Level 1
+### Question 1 - Level 1 [Go back to Contents](https://github.com/WenJoy001/Python-programming-exercises#content)
 
 **Question**:
 
